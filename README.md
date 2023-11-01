@@ -3,6 +3,7 @@
 ## Shortly I'll give a summary of what I've learned from each book !
 
 ### - Mastering Javascript Functional Programming
+### - Functional Programming in JavaScript
 ### - Smalltalk, Objects, and Design
 ### - React Hooks in Action
 ### - Redux in Action
