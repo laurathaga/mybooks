@@ -3,7 +3,7 @@
 ## Shortly I'll give a summary of what I've learned from each book !
 
 ## Currently reading: 
-## Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition
+## SQL in 10 minutes a day, Sams teach yourself
 
 ### - Michael J. Hernandez: Database Design for Mere Mortals 25th anniversary edition
 ### - Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition
