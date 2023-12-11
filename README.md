@@ -5,6 +5,7 @@
 ## Currently reading: 
 ## Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition
 
+### - Michael J. Hernandez: Database Design for Mere Mortals 25th anniversary edition
 ### - Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition
 ### - Mastering Javascript Functional Programming
 ### - Functional Programming in JavaScript
