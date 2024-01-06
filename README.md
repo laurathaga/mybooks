@@ -1,4 +1,4 @@
-# This is a showcase of what I've learned over the years
+# This is a showcase of what I've read over these years
 
 ## -- Book List
 
@@ -20,9 +20,3 @@
 #### 9) Skills of a successful Software Engineer
 #### 10) Web Design with HTML, CSS, JavaScript and JQuery
 #### 11) CSS in depth
-
-## -- Courses
-
-#### 1) Andrew Meed - The Complete React Developer Course
-#### 2) Andrew Meed - The Complete Node Jd Developer Course
-#### 3) Colt Steele, Steven Grinder - The Modern JavaScript BootCamp Course
