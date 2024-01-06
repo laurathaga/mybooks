@@ -7,7 +7,7 @@
 
 -----
 
-#### - Michael J. Hernandez: Database Design for Mere Mortals 25th anniversary edition
+#### Michael J. Hernandez: Database Design for Mere Mortals 25th anniversary edition
 #### - SQL in 10 minutes a day, Sams teach yourself
 #### - Mastering Javascript Functional Programming
 #### - Functional Programming in JavaScript
