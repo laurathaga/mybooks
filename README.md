@@ -25,4 +25,4 @@
 
 #### 1) Andrew Meed - The Complete React Developer Course
 #### 2) Andrew Meed - The Complete Node Jd Developer Course
-#### 2) Colt Steele, Steven Grinder - The Modern JavaScript BootCamp Course
+#### 3) Colt Steele, Steven Grinder - The Modern JavaScript BootCamp Course
