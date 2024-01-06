@@ -8,14 +8,14 @@
 -----
 
 #### 1) Michael J. Hernandez: Database Design for Mere Mortals 25th anniversary edition
-#### - SQL in 10 minutes a day, Sams teach yourself
-#### - Mastering Javascript Functional Programming
-#### - Functional Programming in JavaScript
-#### - Smalltalk, Objects, and Design
-#### - React Hooks in Action
-#### - Redux in Action
-#### - Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman
-#### - Skills of a successful Software Engineer
-#### - Web Design with HTML, CSS, JavaScript and JQuery
-#### - CSS in depth
+#### 2) SQL in 10 minutes a day, Sams teach yourself
+#### 3) Mastering Javascript Functional Programming
+#### 4) Functional Programming in JavaScript
+#### 5) Smalltalk, Objects, and Design
+#### 6) React Hooks in Action
+#### 7) Redux in Action
+#### 8) Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman
+#### 9) Skills of a successful Software Engineer
+#### 10) Web Design with HTML, CSS, JavaScript and JQuery
+#### 11) CSS in depth
 
