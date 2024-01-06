@@ -1,4 +1,6 @@
-# List of the books I've read
+# This is a showcase of what I've learned over the years
+
+## My Book List
 
 ## Currently reading: 
 #### - Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition
@@ -19,3 +21,4 @@
 #### 10) Web Design with HTML, CSS, JavaScript and JQuery
 #### 11) CSS in depth
 
+## Courses
