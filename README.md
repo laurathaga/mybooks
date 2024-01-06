@@ -3,7 +3,6 @@
 ## Currently reading: 
 #### - Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition
 
-<br />
 ### Books that I've already read!
 
 -----
