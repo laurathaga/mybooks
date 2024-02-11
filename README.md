@@ -9,14 +9,15 @@
 
 -----
 
-#### 1) Michael J. Hernandez: Database Design for Mere Mortals 25th anniversary edition
-#### 2) SQL in 10 minutes a day, Sams teach yourself
-#### 3) Mastering Javascript Functional Programming
-#### 4) Functional Programming in JavaScript
-#### 5) Smalltalk, Objects, and Design
-#### 6) React Hooks in Action
-#### 7) Redux in Action
-#### 8) Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman
-#### 9) Skills of a successful Software Engineer
-#### 10) Web Design with HTML, CSS, JavaScript and JQuery
-#### 11) CSS in depth
+#### 1) C.O.D.E - The hidden language of Computer Hardware and Software
+#### 2) Michael J. Hernandez: Database Design for Mere Mortals 25th anniversary edition
+#### 3) SQL in 10 minutes a day, Sams teach yourself
+#### 4) Mastering Javascript Functional Programming
+#### 5) Functional Programming in JavaScript
+#### 6) Smalltalk, Objects, and Design
+#### 7) React Hooks in Action
+#### 8) Redux in Action
+#### 9) Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman
+#### 10) Skills of a successful Software Engineer
+#### 11) Web Design with HTML, CSS, JavaScript and JQuery
+#### 12) CSS in depth
